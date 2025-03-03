@@ -1,6 +1,6 @@
 # 🌐 Socials-Bot: Your Cross-Platform Publishing Assistant
 
-A Telegram bot that publishes your posts on Bluesky and Fosstodon with just a few taps! 📱✨
+A Telegram bot [@pyworldwide_socials_bot](https://t.me/pyworldwide_socials_bot) that publishes your posts on Bluesky and Fosstodon with just a few taps! 📱✨
 
 ## 📋 Prerequisites
 
